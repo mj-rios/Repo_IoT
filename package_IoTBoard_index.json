@@ -14,13 +14,10 @@
                     "architecture": "samd",
                     "version": "1.0.0",
                     "category": "IoT",
-                    "url": "ftp://jrios@ftp.fi.uba.ar/IoTBoard.zip",
+                    "url": "https://github.com/mj-rios/Repo_IoT/blob/master/IoTBoard.zip",
                     "archiveFileName": "IoTBoard.zip",
                     "checksum": "SHA-256:c07e406f6454892f7aeb8818cdbef62b737f64c30d9a845fafbdb2954b21b908",
                     "size": "24119256",
-                    "help": {
-                        "online": "http://bbb.com/"
-                    },
                     "boards": [
                         {
                             "name": "7S IoT Board"
@@ -52,10 +49,9 @@
 						  "packager": "arduino",
 						  "version": "1.2.0"
 						}
-                            ]
-							"size": "22388787"
-                        }
-                    ],
+                     ]
+				}
+            ],
             "tools": []
         }
     ]
