@@ -1,0 +1,62 @@
+{
+    "packages": [
+        {
+            "name": "IoTBoard",
+            "maintainer": "Seven Sigma",
+            "websiteURL": "https://sevensigma.com.ar/",
+            "email": "fdalia@sevensigma.com.ar",
+            "help": {
+                "online": "https://sevensigma.com.ar/"
+            },
+            "platforms": [
+                {
+                    "name": "IoT Board",
+                    "architecture": "samd",
+                    "version": "1.0.0",
+                    "category": "IoT",
+                    "url": "ftp://jrios@ftp.fi.uba.ar/IoTBoard.zip",
+                    "archiveFileName": "IoTBoard.zip",
+                    "checksum": "SHA-256:c07e406f6454892f7aeb8818cdbef62b737f64c30d9a845fafbdb2954b21b908",
+                    "size": "24119256",
+                    "help": {
+                        "online": "http://bbb.com/"
+                    },
+                    "boards": [
+                        {
+                            "name": "7S IoT Board"
+                        }
+                    ],
+                    "toolsDependencies": [
+						{
+						  "name": "arm-none-eabi-gcc",
+						  "packager": "arduino",
+						  "version": "4.8.3-2014q1"
+						},
+						{
+						  "name": "bossac",
+						  "packager": "arduino",
+						  "version": "1.8.0-48-gb176eee"
+						},
+						{
+						  "name": "openocd",
+						  "packager": "arduino",
+						  "version": "0.9.0-arduino"
+						},
+						{
+						  "name": "CMSIS",
+						  "packager": "arduino",
+						  "version": "4.5.0"
+						},
+						{
+						  "name": "CMSIS-Atmel",
+						  "packager": "arduino",
+						  "version": "1.2.0"
+						}
+                            ]
+							"size": "22388787"
+                        }
+                    ],
+            "tools": []
+        }
+    ]
+}
