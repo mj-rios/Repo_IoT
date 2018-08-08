@@ -4,7 +4,7 @@
             "name": "IoTBoard",
             "maintainer": "Seven Sigma",
             "websiteURL": "https://sevensigma.com.ar/",
-            "email": "fdalia@sevensigma.com.ar",
+            "email": "mrios@p-lock.net",
             "help": {
                 "online": "https://sevensigma.com.ar/"
             },
@@ -12,7 +12,7 @@
                 {
                     "name": "IoT Board",
                     "architecture": "samd",
-                    "version": "1.0.1",
+                    "version": "1.0.0",
                     "category": "IoT",
                     "url": "https://github.com/mj-rios/Repo_IoT/raw/master/IoTBoard.zip",
                     "archiveFileName": "IoTBoard.zip",
