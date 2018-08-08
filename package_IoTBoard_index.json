@@ -12,12 +12,12 @@
                 {
                     "name": "IoT Board",
                     "architecture": "samd",
-                    "version": "1.0.0",
+                    "version": "1.0.1",
                     "category": "IoT",
                     "url": "https://github.com/mj-rios/Repo_IoT/raw/master/IoTBoard.zip",
                     "archiveFileName": "IoTBoard.zip",
-                    "checksum": "SHA-256:0993079be0eb8a1fab86f46c08b2507a8942ad1ac8dc35302b85c3347b81bcda",
-                    "size": "24119256",
+                    "checksum": "SHA-256:f27d17976e12f8572931822502d71de772df0f6f6edfd763c5942ac8b45732bd",
+                    "size": "17342955",
                     "boards": [
                         {
                             "name": "7S IoT Board"
